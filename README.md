@@ -10,3 +10,6 @@ Related Blog Posts:
 Reference:
 
  + https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
+ + https://github.com/fastai/numerical-linear-algebra/blob/master/nbs/gradient-descent-intro.ipynb
+ + https://github.com/gibiansky/IHaskell/blob/master/notebooks/Gradient-Descent.ipynb
+ 
